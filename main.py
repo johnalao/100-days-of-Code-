@@ -10,5 +10,3 @@ user_pet = input("What's your pets name?\n")
 
 print("Your Band name could be " + user_city +" "+ user_pet)
 
-#5. Make sure the input cursor shows on a new line, see the example at:
-#   https://replit.com/@appbrewery/band-name-generator-end
